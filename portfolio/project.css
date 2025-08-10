@@ -1,0 +1,21 @@
+*{
+  margin:0px;
+  padding:0px;
+}.p{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  height: 80px;
+  width: 90%;
+  gap:60px;
+  font-size: 25px;
+}
+.p1{
+
+    gap: 30px;
+}
+.p1:hover{
+  color: white;
+  cursor:pointer;
+}
