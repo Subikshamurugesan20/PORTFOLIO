@@ -271,17 +271,16 @@ color:rgb(11, 10, 10)
     background-attachment: fixed;
 }
 .p{
-  position:relative;
-  top:130px;
-   font-size: 50px;
-  color: rgb(10, 6, 6);
-   margin-left: 650px;
+  text-align:center;
+    padding-top:50px;
+    font-size:50px;
+    color:rgb(10,6,6);
 
 }
 .pr1{
     color: #030202;
     font-size: 25px;
-    margin-top: 189px;
+    margin-top: 100px;
     width: 600px;
     height:380px;
     border-radius: 10px;
@@ -326,9 +325,7 @@ color:rgb(11, 10, 10)
    background-color: #b869d7;
 }
 .pro1{
-    position: absolute;
-    top:2330px;
-    left:800px;
+   
     color: #030202;
     font-size: 25px;
     width: 600px;
@@ -336,6 +333,8 @@ color:rgb(11, 10, 10)
     border-radius: 10px;
     box-shadow: 0 0 20px #400a55, 0 0 50px #400a55,0 0 100px #400a55;
     backdrop-filter:blur(3px);
+      margin-left:800px;
+    margin-top:-380px;
 }
 
 /* Contact */
